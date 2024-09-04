@@ -1,18 +1,15 @@
-//thu vien cam bien DHT11
+//download thư viện về rồi khai báo thư viện để giúp đọc cảm biến DHT11
 #include <DHT.h>
-
 // Cấu hình DHT
 #define DHTPIN D4         //chân esp8266 kết nối cảm bien DHT11
 #define DHTTYPE DHT11     //loại cảm biến
 DHT dht(DHTPIN, DHTTYPE); //khai báo đối tượng dht thuộc class DHT , truyền vào 2 tham số: chân nào, loại sensor nào
-
-//run one time khi cấp điện
+//hàm setup: run one time khi cấp điện
 void setup() {
   dht.begin();            //khởi tạo dht : vô số lệnh trong thư viện đã làm việc với cảm biến
   Serial.begin(9600);     //khởi tạo truyền thông nối tiếp để debug
 }
-
-//hàm này mỗi khi chạy xong, hoặc đang chạy mà return: 
+//hàm loop: mỗi khi chạy xong, hoặc đang chạy mà return: 
 //thì hàm này tự động được chạy lại: chạy mãi mãi mà ko cần có chỗ nào có lời gọi hàm này.
 void loop() {
   int h = dht.readHumidity();     // đọc độ ẩm
