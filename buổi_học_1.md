@@ -14,8 +14,8 @@
 - Danh sách đăng ký học
   
   ![](day1/ds_hocvien.jpg)
-- Log tham gia học online
+- Log tham gia học online [Download log csv](day1/log.csv) 
   
   ![](day1/ds_day1.png)
 
-[Download log csv](day1/log.csv) 
+
