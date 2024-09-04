@@ -18,7 +18,7 @@ int main(){
 	double bb=1/aa; //bb =?  : ZERO
 	printf("gias tri bien bb=%f\n",bb);
 	
-	unsigned char cc = 'B';//g·n kÌ t? B cho bi?n c || c nhan m„ ascii cua kÌ tu B
+	unsigned char cc = 'B';//g√°n k√≠ t? B cho bi?n c || c nhan m√£ ascii cua k√≠ tu B
 	printf("gias tri bien char cc=%d\n",cc);
 	cc=cc+1;  //cc ==66+1=67 ascii code of 'C'
 	printf("cc is ascii code %d, ascii : %c\n",cc,cc);
