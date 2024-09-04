@@ -9,3 +9,7 @@
 5. Phần mềm vẽ mạch và chạy mô phỏng: [Proteus 7.8](https://drive.google.com/file/d/1RC12hwjVEnWNopd_tyWFzn0z3XM9Vc0x/view?usp=sharing)
 6. Phần mềm Dev Cpp để lập trình C : [Dev-Cpp 5.11](https://sourceforge.net/projects/orwelldevcpp/files/Portable%20Releases/Dev-Cpp%205.11%20TDM-GCC%20x64%204.9.2%20Portable.7z/download)
 7. Code cpp buổi học số 1: [vd1](day1/vd1.cpp),  [vd2](day1/vd2.cpp),  [vd3](day1/vd3.cpp),  [vd4](day1/vd4.cpp),  [gptb2](day1/gptb2.cpp)
+
+## Thành viên tham gia buổi học: 
+- [Danh sách đăng ký học](day1/ds_hoc.jpg)
+- [Log tham gia học online](day1/meeting_9-4-2024_12-54-13 PM_qdu-cgwh-rsi.csv) [view](day1/ds_day1.png)
