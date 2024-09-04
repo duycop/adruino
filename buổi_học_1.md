@@ -7,8 +7,8 @@ Hình thức: [online meet](https://meet.google.com/qdu-cgwh-rsi)
 ## Tài liệu:
 
 1. Bộ cài đặt phần mềm lập trình Arduino: [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)
-2. Tài liệu về phần cứng Arduino [Hardware Docs] (https://docs.arduino.cc/hardware/)
-3. Tài liệu về phần mềm Arduino [Software Docs] (https://docs.arduino.cc/software/ide/)
+2. Tài liệu về phần cứng Arduino [Hardware Docs](https://docs.arduino.cc/hardware/)
+3. Tài liệu về phần mềm Arduino [Software Docs](https://docs.arduino.cc/software/ide/)
 4. Tài liệu tra cứu cho lập trình Arduino: [Arduino Programming](https://docs.arduino.cc/programming)
 5. Phần mềm vẽ mạch và chạy mô phỏng: [Proteus 7.8](https://drive.google.com/file/d/1RC12hwjVEnWNopd_tyWFzn0z3XM9Vc0x/view?usp=sharing)
 6. Code blink nhấp nháy đèn led buildin trên esp8266 : [blink.ino](day1/blink.ino)
