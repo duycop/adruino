@@ -1,6 +1,7 @@
 # Buổi học 1
 
 Thời gian: 13h30 ngày 04/09/2024
+
 Hình thức: online meet
 
 ## Tài liệu:
