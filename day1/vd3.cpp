@@ -1,8 +1,8 @@
 //cach hien thi so phay dong
 #include<stdio.h>
 int main(){
-	float a=3.14;   //4 byte: ko chÌnh x·c bang
-	double b=3.14;  //8 byte: chÌnh x·c hon
+	float a=3.14;   //4 byte: ko ch√≠nh x√°c bang
+	double b=3.14;  //8 byte: ch√≠nh x√°c hon
 	
 	printf("a=%f kich thuoc =%d bytes\n",a,sizeof(a));
 	printf("a=%f kich thuoc =%d bytes\n",b,sizeof(b));
