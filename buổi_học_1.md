@@ -18,4 +18,4 @@
   
   ![](day1/ds_day1.png)
 
-[Download log csv](day1/meeting_9-4-2024_12-54-13 PM_qdu-cgwh-rsi.csv) 
+[Download log csv](day1/log.csv) 
