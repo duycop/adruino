@@ -1,5 +1,8 @@
 # Buổi học 1
 
+Thời gian: 13h30 ngày 04/09/2024
+Hình thức: online meet
+
 ## Tài liệu:
 
 1. Bộ cài đặt phần mềm lập trình Arduino: [Arduino IDE 2.3.2](https://www.arduino.cc/en/software)
