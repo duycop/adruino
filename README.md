@@ -1,5 +1,4 @@
-# adruino
-Lớp Bồi dưỡng kỹ thuật Vi điều khiển
+# Lớp Bồi dưỡng kỹ thuật Vi điều khiển
 
 ## Nhật ký các buổi học
 
