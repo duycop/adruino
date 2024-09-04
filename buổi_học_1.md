@@ -11,5 +11,11 @@
 7. Code cpp buổi học số 1: [vd1](day1/vd1.cpp),  [vd2](day1/vd2.cpp),  [vd3](day1/vd3.cpp),  [vd4](day1/vd4.cpp),  [gptb2](day1/gptb2.cpp)
 
 ## Thành viên tham gia buổi học: 
-- [Danh sách đăng ký học](day1/ds_hoc.jpg)
-- [Log tham gia học online](day1/meeting_9-4-2024_12-54-13 PM_qdu-cgwh-rsi.csv) [view](day1/ds_day1.png)
+- Danh sách đăng ký học
+  
+  ![](day1/ds_hocvien.jpg)
+- Log tham gia học online
+  
+  ![](day1/ds_day1.png)
+
+[Download log csv](day1/meeting_9-4-2024_12-54-13 PM_qdu-cgwh-rsi.csv) 
