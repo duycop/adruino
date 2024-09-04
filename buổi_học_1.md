@@ -23,5 +23,8 @@ Hình thức: online meet
 - Log tham gia học online [Download log csv](day1/log.csv) 
   
   ![](day1/ds_day1.png)
+  ![](day1/sort.png)
+  
+  
 
 
