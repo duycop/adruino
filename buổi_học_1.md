@@ -17,12 +17,6 @@ Hình thức: online meet
 9. Code đọc độ ẩm và nhiệt độ của cảm biến DHT11 trên esp8266 : [read sensor DHT11](day1/doc_cam_bien_DHT11.ino)
 
 ## Thành viên tham gia buổi học: 
-- Danh sách đăng ký học
-  
-  ![](day1/ds_hocvien.jpg)
-- Log tham gia học online [Download log csv](day1/log.csv) 
-  
-  ![](day1/ds_day1.png)
   ![](day1/sort.png)
   
   
