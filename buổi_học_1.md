@@ -20,6 +20,7 @@ Hình thức: [online meet](https://meet.google.com/qdu-cgwh-rsi)
 ## Thành viên tham gia buổi học: 
   ![](day1/sort.png)
   
-  
+## Kết quả đọc độ ẩm và nhiệt độ từ cảm biến DHT11
+  ![](day1/ket_qua.png) 
 
 
