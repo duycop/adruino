@@ -2,7 +2,7 @@
 
 Thời gian: 13h30 ngày 04/09/2024
 
-Hình thức: online meet
+Hình thức: [online meet](https://meet.google.com/qdu-cgwh-rsi)
 
 ## Tài liệu:
 
