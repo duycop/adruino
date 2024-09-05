@@ -17,3 +17,11 @@ Log join meeting: [log người học](day2/meeting_day2.csv)
 - Các lỗi hay gặp: = vs ==, macro is replace, over max to zero tràn can rượu [loi_hay_gap](day2/loi_hay_gap.cpp)
 - Log text nháp [log nháp quá trình](day2/log_nháp.txt)
 
+## Video màn hình quá trình ##
+
+Vì lỡ tay bấm F11 là phím nóng stop quay video nên file bị chia nhỏ
+
+- Video 1 [32p](https://57kmt.duckdns.org/video/Video_2024-09-05_135712-converted.mp4)
+- Video 2 [4p](https://57kmt.duckdns.org/video/Video_2024-09-05_140200-converted.mp4)
+- Video 3 [1h45p](https://57kmt.duckdns.org/video/Video_2024-09-05_154813-converted.mp4)
+- Video 4 [37p](https://57kmt.duckdns.org/video/Video_2024-09-05_162616-converted.mp4)
