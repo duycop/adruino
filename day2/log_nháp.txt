@@ -1,0 +1,21 @@
+buổi học 2:
+tiếp tục C
+
+Mảng:
+cú pháp khai báo:
+vị trí khai báo? trước khi sử dụng
+phạm vi sử dụng: Toàn cục: ở đầu chương trình, trước hàm main
+                 phía sâu sâu: đc sd ở phía sau
+		 block: { trong block }   => chỉ đc dùng trong block
+cú pháp: KDL   TenMang[N]; //số N quyết định số lượng phần tử
+Chỉ số : dưới luôn là 0, chỉ số trên N-1
+truy cập: Tên mảng [chỉ số]
+chỉ số có thể dùng hằng, biến i
+truy xuất: ĐỌC/GHI
+A[1]=123 ; // ghi
+t = A[1] + A[2] ; // đọc A1 + A2 => gán cho t
+
+mang_vd4.cpp line num 63:
+char mk[]="Love ";
+ 
+cú pháp lười + giá trị khởi tạo của mảng ("Love ")
