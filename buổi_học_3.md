@@ -4,7 +4,7 @@ THỜI GIAN: 06/09/2024
 
 HÌNH THỨC: [ONLINE MEET](https://meet.google.com/qov-btdk-dst)
 
-## Log thành viên tham gia: [log join meet](day3/meeting_9-6-2024_12-47-16 PM_qov-btdk-dst.csv)
+## Log thành viên tham gia: ## [log join meet](day3/meeting_9-6-2024_12-47-16 PM_qov-btdk-dst.csv)
 
 ## Nội dung
 
