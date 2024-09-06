@@ -92,3 +92,11 @@ HÌNH THỨC: [ONLINE MEET](https://meet.google.com/qov-btdk-dst)
     + khối 2: khối điều kiện, trả về đúng hoặc sai, 
   - while
   - do ... while
+
+### Code C trong quá trình giảng ###
+1. [demo lệnh if else](day3/lenh_if.cpp)
+2. [demo lệnh swtich case](day3/lenh_swtich_case.cpp)
+3. [demo lệnh lặp for](day3/lenh_lap_for.cpp)
+
+### Video quay màn hình ###
+1. [Video quay full màn hình](https://57kmt.duckdns.org/video/Video_2024-09-06_144427_converted.mp4)
