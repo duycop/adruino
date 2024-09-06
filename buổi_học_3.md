@@ -61,29 +61,29 @@ HÌNH THỨC: [ONLINE MEET](https://meet.google.com/qov-btdk-dst)
   - Toán tử bít, làm việc theo cặp bít: & (AND theo cặp bít), | (OR theo cặp bít), ^ (XOR theo cặp bít)
 6. Các cấu trúc điều khiển
 
-  6.1. Cấu trúc rẽ nhánh: //tới ngã 3 đi đâu? Sang quán bia hay về nhà ? có 2 lựa chọn
+6.1. Cấu trúc rẽ nhánh: //tới ngã 3 đi đâu? Sang quán bia hay về nhà ? có 2 lựa chọn
+  - if(dk){khối lệnh}  : THỰC HIỆN KHỐI LỆNH OR KHÔNG THỰC HIỆN KHỐI ĐÓ TUỲ THEO ĐK CỦA IF ĐÚNG HAY SAI
+  - if(dk){khối lệnh1} else{khối lệnh2} : 
+    + nếu đk đúng thì chỉ có KL1 đc thực hiện, KL2 ko đc thực hiện; 
+    + ngược lại (đk sai) thì KL1 ko đc thực hiện, chỉ có KL2 được thực hiện
+  - if else có lồng nhau nhiều cấp: tuỳ thuộc thuật toán. lưu ý: dùng dấu { } hết sức cẩn thận
+6.2. Cấu trúc rẽ nhiều nhánh:
+  - Cấu trúc switch ... case
 
-    - if(dk){khối lệnh}  : THỰC HIỆN KHỐI LỆNH OR KHÔNG THỰC HIỆN KHỐI ĐÓ TUỲ THEO ĐK CỦA IF ĐÚNG HAY SAI
-    - if(dk){khối lệnh1} else{khối lệnh2} : 
-      + nếu đk đúng thì chỉ có KL1 đc thực hiện, KL2 ko đc thực hiện; 
-      + ngược lại (đk sai) thì KL1 ko đc thực hiện, chỉ có KL2 được thực hiện
-    - if else có lồng nhau nhiều cấp: tuỳ thuộc thuật toán. lưu ý: dùng dấu { } hết sức cẩn thận
+	nhớ hình 1 bé đứng te`, 
+ 	các cháu khác núp dưới cống, 
+	cháu nằm dưới đường dưới cùng: 
+	nắp cổng mở ~ t==case: cháu ngay dưới bị ướt,
+	khi 1 nắp mở nước chỉ đi dưới cống
+![](day3/tè.png)
 
-  6.2. Cấu trúc rẽ nhiều nhánh:
-
-    - Cấu trúc switch ... case
-    - nhớ hình 1 bé đứng te`, 
-      các cháu khác núp dưới cống, 
-      cháu nằm dưới đường dưới cùng: 
-      nắp cổng mở ~ t==case: cháu ngay dưới bị ướt
-      khi 1 nắp mở nước chỉ đi dưới cống
-
-  6.3. Cấu trúc lặp:
-
-    - for
-	for(khối1; khối2; khối3){thân_for}
-	+ khối 1: là khối khởi tạo vì nó chỉ đc chạy 1 lần duy nhất.
-	+ khối 2: khối điều kiện, trả về đúng hoặc sai, 
-
-    - while
-    - do ... while
+6.3. Cấu trúc lặp:
+  - **for**:
+    
+  cú pháp
+  
+    for(khối1; khối2; khối3){thân_for}
+    + khối 1: là khối khởi tạo vì nó chỉ đc chạy 1 lần duy nhất.
+    + khối 2: khối điều kiện, trả về đúng hoặc sai, 
+  - while
+  - do ... while
