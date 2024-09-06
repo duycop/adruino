@@ -6,11 +6,12 @@ HÌNH THỨC: [ONLINE MEET](https://meet.google.com/qov-btdk-dst)
 
 ## Log thành viên tham gia: ## 
 
-[log join meet](day3/meeting3.csv)
+- [log join meet](day3/meeting3.csv)
+- Nghỉ sớm vì bão to tại Bắc Giang, mọi người đi chốt cửa
 
-## Nội dung
+## Nội dung buổi học ##
 
-### Ngôn ngữ lập trình C
+### Ngôn ngữ lập trình C###
 
 1. Cài đặt môi trường
 
