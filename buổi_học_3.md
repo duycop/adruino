@@ -81,9 +81,9 @@ HÌNH THỨC: [ONLINE MEET](https://meet.google.com/qov-btdk-dst)
   6.3. Cấu trúc lặp:
 
     - for
-    	for(khối1; khối2; khối3){thân_for}
-	    + khối 1: là khối khởi tạo vì nó chỉ đc chạy 1 lần duy nhất.
-      + khối 2: khối điều kiện, trả về đúng hoặc sai, 
+	for(khối1; khối2; khối3){thân_for}
+	+ khối 1: là khối khởi tạo vì nó chỉ đc chạy 1 lần duy nhất.
+	+ khối 2: khối điều kiện, trả về đúng hoặc sai, 
 
     - while
     - do ... while
